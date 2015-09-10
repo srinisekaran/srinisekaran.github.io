@@ -1,2 +1,1 @@
-mygithubpage
-============
+Personal page
