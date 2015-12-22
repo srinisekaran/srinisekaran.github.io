@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:700);
 
 html,
+
 body {
     width: 100%;
     height: 100%;
@@ -63,7 +64,7 @@ p {
     line-height: 1.7;
     margin-bottom: 20px;
     font-family:'Helvetica Neue',Arial,sans-serif;
-    word-spacing: 20px;
+    word-spacing: 30px;
 }
 
 .text-normal {
