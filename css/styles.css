@@ -54,7 +54,7 @@ p {
     font-size: 50px;
     line-height: 1.7;
     margin-bottom: 20px;
-    font-family:'Helvetica Neue',Arial,sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 
@@ -63,7 +63,7 @@ p {
 }
 
 .text-normal {
-    font-family:'Helvetica Neue',Arial,sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .wide-space {
