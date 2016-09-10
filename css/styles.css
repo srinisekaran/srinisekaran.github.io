@@ -6,7 +6,7 @@ body {
 }
 
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'News Cycle', sans-serif;
     color: #001A33;
     webkit-tap-highlight-color: #222;
     top:10;
@@ -54,7 +54,7 @@ p {
     font-size: 50px;
     line-height: 1.7;
     margin-bottom: 20px;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'News Cycle', sans-serif;
 }
 
 
@@ -63,7 +63,7 @@ p {
 }
 
 .text-normal {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'News Cycle', sans-serif;
 }
 
 .wide-space {
