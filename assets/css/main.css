@@ -62,6 +62,10 @@
 
 /* Containers */
 
+	.img-circle {
+	    border-radius: 50%;
+	}
+
 	.container {
 		margin-left: auto;
 		margin-right: auto;
@@ -1619,6 +1623,7 @@
 		font-weight: 400;
 	}
 
+
 	em, i {
 		font-style: italic;
 	}
@@ -2104,7 +2109,8 @@
 			}
 
 		.image.avatar {
-			border-radius: 100%;
+			border-radius: 50%;
+
 		}
 
 			.image.avatar:before {
@@ -2113,7 +2119,8 @@
 
 			.image.avatar img {
 				border-radius: 100%;
-				width: 100%;
+				width: 150%;
+				border: 8px solid white;
 			}
 
 /* List */
@@ -2136,6 +2143,15 @@
 
 		ul li {
 			padding-left: 0.5em;
+
+		}
+
+		ul li h4 {
+			display: inline-block;
+		}
+
+		ul li h5 {
+			display: inline-block;
 		}
 
 		ul.alt {
@@ -2466,6 +2482,8 @@
 		}
 
 /* Work Item */
+
+	ul 
 
 	.work-item {
 		margin: 0 0 2em 0;
@@ -3035,6 +3053,12 @@
 
 			h3 {
 				font-size: 1em;
+			}
+
+			.image.avatar img {
+				border-radius: 100%;
+				width: 100%;
+				border: 8px solid white;
 			}
 
 		/* Section/Article */
