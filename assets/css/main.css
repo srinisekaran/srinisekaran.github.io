@@ -2915,7 +2915,7 @@
 			
 			.image.avatar img {
 				border-radius: 100%;
-				width: 120%;
+				width: 110%;
 				border: 8px solid white;
 			}
 
@@ -2924,6 +2924,13 @@
 /* Large */
 
 	@media screen and (max-width: 1280px) {
+		
+		
+		.image.avatar img {
+			border-radius: 100%;
+			width: 100%;
+			border: 8px solid white;
+		}
 
 		/* Header */
 
@@ -2973,7 +2980,7 @@
 
 			.image.avatar img {
 				border-radius: 100%;
-				width: 120%;
+				width: 100%;
 				border: 8px solid white;
 			}
 
