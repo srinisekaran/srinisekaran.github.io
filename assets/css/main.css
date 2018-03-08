@@ -2912,6 +2912,12 @@
 			body, input, select, textarea {
 				font-size: 12pt;
 			}
+			
+			.image.avatar img {
+				border-radius: 100%;
+				width: 120%;
+				border: 8px solid white;
+			}
 
 	}
 
@@ -2967,7 +2973,7 @@
 
 			.image.avatar img {
 				border-radius: 100%;
-				width: 120%;
+				width: 110%;
 				border: 8px solid white;
 			}
 
