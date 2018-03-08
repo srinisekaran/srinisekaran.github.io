@@ -2110,6 +2110,7 @@
 
 		.image.avatar {
 			border-radius: 50%;
+			height: auto;
 
 		}
 
@@ -2121,6 +2122,7 @@
 				border-radius: 100%;
 				width: 150%;
 				border: 8px solid white;
+				height: auto;
 			}
 
 /* List */
@@ -2917,6 +2919,7 @@
 				border-radius: 100%;
 				width: 110%;
 				border: 8px solid white;
+				height: auto;
 			}
 
 	}
@@ -2930,6 +2933,7 @@
 			border-radius: 100%;
 			width: 100%;
 			border: 8px solid white;
+			height: auto;
 		}
 
 		/* Header */
@@ -2982,6 +2986,7 @@
 				border-radius: 100%;
 				width: 100%;
 				border: 8px solid white;
+				height: auto;
 			}
 
 		/* List */
@@ -3078,6 +3083,7 @@
 				border-radius: 100%;
 				width: 100%;
 				border: 8px solid white;
+				height: auto;
 			}
 
 		/* Section/Article */
