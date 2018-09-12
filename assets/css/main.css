@@ -1612,6 +1612,11 @@
 		text-decoration: none;
 	}
 
+	#media{
+    	text-decoration:none;
+    	border-bottom:none;
+	}
+
 		a:hover {
 			border-bottom-color: transparent;
 			color: #49bf9d !important;
